@@ -19,7 +19,7 @@ The AI uses the Minimax algorithm to play perfectly, making it nearly impossible
 To try out the game, simply follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/unbeatable-tictactoe-AI.git
+   git clone https://github.com/Hamzah82/unbeatable-tictactoe-AI.git
    ```
 2. Open the `index.html` file in any modern web browser.
 3. Start playing and see if you can outsmart the AI (hint: you won’t 😉).
